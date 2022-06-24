@@ -1,7 +1,6 @@
 # camping-shifts-microbiome
 #Supplementary Materials of Ding L et al: 
-This is the supplementary materials of  "Herbivore camping shifts the structure, function 
-and network of subsoil microbial communities in a subtropical pasture".
+This is the supplementary materials of  Ding et al (2022).
 
 
 #Microbiome dataset available: 
